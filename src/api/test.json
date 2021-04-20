@@ -1,0 +1,265 @@
+{
+  "msg": "操作成功",
+  "code": 200,
+  "data": {
+    "deVolume": [
+      {
+        "name": "今日垃圾量",
+        "value": [
+          {
+            "name": "可回收",
+            "value": 6352.66
+          },
+          {
+            "name": "易腐",
+            "value": 3648.54
+          },
+          {
+            "name": "其他",
+            "value": 3352.66
+          },
+          {
+            "name": "有害",
+            "value": 48.54
+          }
+        ]
+      },
+      {
+        "name": "季度垃圾量",
+        "value": [
+          {
+            "name": "可回收",
+            "value": 635283.66
+          },
+          {
+            "name": "易腐",
+            "value": 3648221.54
+          },
+          {
+            "name": "其他",
+            "value": 335249.66
+          },
+          {
+            "name": "有害",
+            "value": 488.54
+          }
+        ]
+      },
+      {
+        "name": "年度垃圾量",
+        "value": [
+          {
+            "name": "可回收",
+            "value": 635256967.66
+          },
+          {
+            "name": "易腐",
+            "value": 36483542.54
+          },
+          {
+            "name": "其他",
+            "value": 33523669.66
+          },
+          {
+            "name": "有害",
+            "value": 4845.54
+          }
+        ]
+      }
+    ],
+    "deCount": [
+      {
+        "date": "03-07",
+        "num": 0
+      },
+      {
+        "date": "03-08",
+        "num": 10000
+      },
+      {
+        "date": "03-09",
+        "num": 1000
+      },
+      {
+        "date": "03-10",
+        "num": 1000
+      },
+      {
+        "date": "03-11",
+        "num": 0
+      }
+    ],
+    "participate": {
+      "rate": 0.75
+    },
+    "resource": {
+      "rate": 0.26
+    },
+    "suRateTop": [
+      {
+        "name": "五常街道",
+        "last": 0,
+        "this": 0
+      },
+      {
+        "name": "临平街道",
+        "last": 0,
+        "this": 0
+      },
+      {
+        "name": "南苑街道",
+        "last": 0,
+        "this": 0
+      },
+      {
+        "name": "东湖街道",
+        "last": 0,
+        "this": 0
+      },
+      {
+        "name": "星桥街道",
+        "last": 0,
+        "this": 0
+      }
+    ],
+    "task": {
+      "progress": 60,
+      "detail": [
+        {
+          "time": "02-04 08:43:51",
+          "point": "衢州海创园1号点位",
+          "executor": "刘玉林",
+          "status": "1"
+        },
+        {
+          "time": "02-04 08:43:51",
+          "point": "衢州海创园1号点位",
+          "executor": "刘玉林",
+          "status": "1"
+        },
+        {
+          "time": "02-04 08:43:51",
+          "point": "衢州海创园1号点位",
+          "executor": "刘玉林",
+          "status": "1"
+        }
+      ]
+    },
+    "overflow": [
+      {
+        "time": "02-04 08:43:51",
+        "point": "衢州海创园1号点位",
+        "executor": "刘玉林",
+        "spend": "1小时25分钟"
+      },
+      {
+        "time": "02-04 08:43:51",
+        "point": "衢州海创园1号点位",
+        "executor": "刘玉林",
+        "spend": "1小时25分钟"
+      },
+      {
+        "time": "02-04 08:43:51",
+        "point": "衢州海创园1号点位",
+        "executor": "刘玉林",
+        "spend": "1小时25分钟"
+      },
+      {
+        "time": "02-04 08:43:51",
+        "point": "衢州海创园1号点位",
+        "executor": "刘玉林",
+        "spend": "1小时25分钟"
+      },
+      {
+        "time": "02-04 08:43:51",
+        "point": "衢州海创园1号点位",
+        "executor": "刘玉林",
+        "spend": "1小时25分钟"
+      },
+      {
+        "time": "02-04 08:43:51",
+        "point": "衢州海创园1号点位",
+        "executor": "刘玉林",
+        "spend": "1小时25分钟"
+      },
+      {
+        "time": "02-04 08:43:51",
+        "point": "衢州海创园1号点位",
+        "executor": "刘玉林",
+        "spend": "1小时25分钟"
+      },
+      {
+        "time": "02-04 08:43:51",
+        "point": "衢州海创园1号点位",
+        "executor": "刘玉林",
+        "spend": "1小时25分钟"
+      },
+      {
+        "time": "02-04 08:43:51",
+        "point": "衢州海创园1号点位",
+        "executor": "刘玉林",
+        "spend": "1小时25分钟"
+      }
+    ],
+    "awareness": {
+      "rate": 0.26
+    },
+    "troubleRate": {
+      "troubleRate": 0,
+      "intactRate": 1
+    },
+    "installRate": {
+      "boundCount": 2,
+      "totalCount": 4,
+      "boundRate": 0.5,
+      "idleRate": 0.5
+    },
+    "deRateTop": [
+      {
+        "name": "五常街道",
+        "last": 0.38,
+        "this": 1
+      },
+      {
+        "name": "临平街道",
+        "last": 0,
+        "this": 0
+      },
+      {
+        "name": "南苑街道",
+        "last": 0,
+        "this": 0
+      },
+      {
+        "name": "东湖街道",
+        "last": 0,
+        "this": 0
+      },
+      {
+        "name": "星桥街道",
+        "last": 0,
+        "this": 0
+      }
+    ],
+    "harmless": {
+      "rate": 0.75
+    },
+    "reduction": {
+      "rate": 0.46
+    },
+    "correctRate": {
+      "id": 52,
+      "areaName": "",
+      "areaCode": "330000,330100,330110",
+      "delDate": "2021-03-10T00:00:00.000+08:00",
+      "totalCount": 22000,
+      "correctCount": 19854,
+      "createTime": "2021-03-10T08:24:27.000+08:00",
+      "params": {},
+      "rate": 0.9
+    },
+    "attendance": {
+      "rate": 1
+    }
+  }
+}

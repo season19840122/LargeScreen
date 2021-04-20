@@ -1,0 +1,61 @@
+.zd-echarts {
+  &.tooltip-box {
+    border-top: 1px solid #02ceb4;
+    border-bottom: 1px solid #02ceb4;
+
+    div {
+      padding: 2px 12px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      .name {
+        padding: 0;
+        color: #737373;
+      }
+
+      .value {
+        padding: 0;
+      }
+    }
+
+    span:nth-child(1) {
+      position: absolute;
+      left: -1px;
+      top: -1px;
+      width: 4px;
+      height: 4px;
+      border-radius: 50%;
+      background-color: #02ceb4;
+    }
+
+    span:nth-child(2) {
+      position: absolute;
+      right: -1px;
+      top: -1px;
+      width: 4px;
+      height: 4px;
+      border-radius: 50%;
+      background-color: #02ceb4;
+    }
+
+    span:nth-child(3) {
+      position: absolute;
+      left: -1px;
+      bottom: -1px;
+      width: 4px;
+      height: 4px;
+      border-radius: 50%;
+      background-color: #02ceb4;
+    }
+
+    span:nth-child(4) {
+      position: absolute;
+      right: -1px;
+      bottom: -1px;
+      width: 4px;
+      height: 4px;
+      border-radius: 50%;
+      background-color: #02ceb4;
+    }
+  }
+}

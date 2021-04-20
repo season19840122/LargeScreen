@@ -1,0 +1,15 @@
+/** Filename: base.css v2.0
+ * Author: Season 朱迎春
+ * Creattime: 2011-09-02
+ * PS: 模块化 CSS 最底层 base.css
+ */
+
+@charset "utf-8";
+@import './reset.scss';
+@import './variables.scss';
+@import './mixin.scss';
+@import './fonts.scss';
+@import './common.scss';
+@import './config.scss';
+
+

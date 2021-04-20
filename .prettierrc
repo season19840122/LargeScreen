@@ -1,0 +1,14 @@
+{
+  "semi": false,
+  "printWidth": 128,
+  "arrowParens": "always",
+  "singleQuote": true,
+  "trailingComma": "es5",
+  "endOfLine": "auto",
+  "vueIndentScriptAndStyle": true,
+  "htmlWhitespaceSensitivity": "ignore",
+  "jsxSingleQuote": true,
+  "pugSingleQuote": false,
+  "pugEmptyAttributes": "none",
+  "pugArrowParens": "always"
+}
